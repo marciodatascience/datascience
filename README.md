@@ -5,16 +5,16 @@
 </p>
 
 # Márcio Drumond
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Lead Data Scientist* at Center of Development of Nuclear Technology</sub>
 
-As an experienced Data Scientist and Air Force pilot, I combine analytical skills, the ability to work in team environments, and attention to detail. Having spent the last years applying Machine Learning to the Brazilian Air Force's problems, I developed a critical thinking and problem-solving skills.
+As a Data Scientist and Radiological Protection Supervisor, I combine analytical skills, the ability to work in team environments, and attention to detail. Having spent the last years applying radioprotection principles to the Brazilian Nuclear Area problems, I developed critical thinking and problem-solving skills.
 
-My credentials include a Master's in Radiation Science and Technology, an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and an MBA in Project and Process Management from the University of Air Force (UNIFA).
+My credentials include a Master's in Radiation Science and Technology from the Center of Development of Nuclear Technology (CDTN), a CNEN (National Commission of Nuclear Energy) institution of higher education, and advanced research rated as one of the top and most prestigious nuclear research institutes in Brazil.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Radioprotection and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn]([https://www.linkedin.com/in/marcio-drumond-costa-ferreira/)
+* [LinkedIn](https://www.linkedin.com/in/marcio-drumond-costa-ferreira/)
 * [Medium](https://www.medium.com)
 
 
